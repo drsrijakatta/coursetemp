@@ -16,6 +16,8 @@ main:
     url: /assignment/
   - title: Evaluation Results
     url: /results/
+  - title: Classroom
+    url: /meetings/
 
   - title: FAQs
     url: /faq/
