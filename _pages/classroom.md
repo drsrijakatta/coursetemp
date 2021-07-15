@@ -1,7 +1,9 @@
 ---
 permalink: /meetings/
-title: Meetings
+title: Classroom
 ---
+# Find your live classes here (as per the schedule)
+
 <div class="responsive-wrap" markdown="0">
   <script>
   navigator.mediaDevices.getUserMedia({ audio: true })
