@@ -3,10 +3,10 @@ permalink: /schedule/
 title: Course Schedule
 ---
 
-|   Topic       | Date of Delivery | Link to Class | Date of Assessment |
-| ------------- | ---------------- | ------------- | ------------------ |
-| Topic 1       | dd/mm/yyyy       | https://drsrijakatta.github.io/drsrijakatta/meetings/ | dd/mm/yyyy
-| Topic 2       | dd/mm/yyyy       | https://drsrijakatta.github.io/drsrijakatta/meetings/ | dd/mm/yyyy
+|   Topic       | Date of Delivery | Link to Class | Date of Assessment | Date of Results |
+| ------------- | ---------------- | ------------- | ------------------ | --------------- |
+| Topic 1       | dd/mm/yyyy       | https://drsrijakatta.github.io/drsrijakatta/meetings/ | dd/mm/yyyy | dd/mm/yyyy |
+| Topic 2       | dd/mm/yyyy       | https://drsrijakatta.github.io/drsrijakatta/meetings/ | dd/mm/yyyy | dd/mm/yyyy |
 
 
 
