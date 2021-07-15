@@ -12,10 +12,10 @@ main:
     url: /schedule/
   - title: Assessment
     url: /test/
-  - title: You are live...
-    url: /example3/
-  - title: Get is now!
-    url: /example4/
+  - title: Assignments
+    url: /assignment/
+  - title: Evaluation Results
+    url: /results/
 
   - title: Template
     url: /template/
