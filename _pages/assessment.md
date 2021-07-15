@@ -1,6 +1,6 @@
 ---
-permalink: /form/
-title: Form
+permalink: /test/
+title: Assessment
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
