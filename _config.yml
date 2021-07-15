@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyeAI Consulting"
-  avatar : "/assets/images/ayetutor.png"
-  bio    : "AyeAI is a cognitive edutech company"
+  name   : "Course Name"
+  avatar : "https://en.wikipedia.org/wiki/Robotics#/media/File:Shadow_Hand_Bulb_large.jpg"
+  bio    : "Course description"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
