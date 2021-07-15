@@ -1,5 +1,5 @@
 ---
-permalink: /test/
+permalink: /form/
 title: Feedback Form
 ---
 <style>
