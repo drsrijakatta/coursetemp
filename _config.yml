@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Course Name"
-  avatar : "https://en.wikipedia.org/wiki/Robotics#/media/File:Shadow_Hand_Bulb_large.jpg"
+  avatar : "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shadow_Hand_Bulb_large.jpg"
   bio    : "Course description"
   links:
     - label: "Twitter"
