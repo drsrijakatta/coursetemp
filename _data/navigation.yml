@@ -21,7 +21,7 @@ main:
 
   - title: FAQs
     url: /faq/
-  - title: Animation
+  - title: Demonstrations
     url: /anim/
     
 
@@ -29,18 +29,18 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Posts"
+  - title: "Important Notes"
     url: /posts/
     
   - title: "Partners"
     url: /partners/
   - title: "Team"
     url: /team/
-  - title: "Form"
+  - title: "Feedback Form"
     url: /form/
   - title: "Video"
     url: /video/
-  - title: "data visualization"
+  - title: "Data visualization"
     url: /datavisualization/
     
     
