@@ -10,10 +10,10 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-   <b>This is an AyePages™ site<br>
+   <b>This is a Course Template site<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about AyePages™  </a>
+  <a href="about/">More about Course Template  </a>
   </small>
 ---
 
